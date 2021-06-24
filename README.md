@@ -1,5 +1,6 @@
 ### Hi there 👋
 This is Quinn-SU🏄‍♀️<br> <br>
+My BLOG https://quinn-su.github.io/ ✨ 
 ### About me
  -目前是一名代码剪辑师⚡<br>
  -菜但是在学习🌿<br>
