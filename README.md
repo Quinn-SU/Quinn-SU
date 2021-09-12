@@ -5,9 +5,9 @@ My BLOG https://quinnsu.github.io// ✨
  -体积形态和组成成分都接近一颗白菜🌿<br>
  <br>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quinn-SU)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinnsu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinn-SU)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quinnsu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
