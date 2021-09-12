@@ -1,10 +1,9 @@
 ### Hi there 👋
 This is Quinn-SU🏄‍♀️<br> <br>
-My BLOG https://quinn-su.github.io/ ✨ 
+My BLOG https://quinnsu.github.io// ✨ 
 ### About me
- -目前是一名代码剪辑师⚡<br>
- -菜但是在学习🌿<br>
- -希望变得更厉害✨<br> <br>
+ -体积形态和组成成分都接近一颗白菜🌿<br>
+ <br>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quinn-SU)](https://github.com/anuraghazra/github-readme-stats)
 
