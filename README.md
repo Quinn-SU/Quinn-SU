@@ -1,6 +1,5 @@
 ### Hi there 👋
-This is Quinn-SU🏄‍♀️<br> <br>
-My BLOG https://quinnsu.github.io// ✨ 
+This is Quinn-SU🏄‍♀️<br> <br> ✨ 
 ### About me
  -体积形态和组成成分都接近一颗白菜🌿<br>
  <br>
